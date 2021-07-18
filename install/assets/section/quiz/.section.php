@@ -1,0 +1,6 @@
+<?
+$sSectionName = "sharp";
+$arDirProperties = Array(
+
+);
+?>
